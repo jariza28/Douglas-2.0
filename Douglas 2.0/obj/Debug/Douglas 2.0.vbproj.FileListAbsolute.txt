@@ -1,0 +1,2 @@
+C:\Users\User\AppData\Local\Temporary Projects\Douglas 2.0\bin\Debug\Douglas 2.0.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\Douglas 2.0\Douglas 2.0\bin\Debug\Douglas 2.0.exe.config
